@@ -13,8 +13,8 @@ python -u main.py
 ```
 
 ## 结果
-![new](https://github.com/ice-bird/70_unisver_wechat_avatar/blob/master/res/new_head.png)
-![new2](https://github.com/ice-bird/70_unisver_wechat_avatar/blob/master/res/new_head2.png)
+![new](https://github.com/ice-bird/70_unisver_wechat_avatar/blob/master/sample_image/new_head%20.png)
+![new2](https://github.com/ice-bird/70_unisver_wechat_avatar/blob/master/sample_image/new_head%202.png)
 
 
 ## 改进
