@@ -13,11 +13,11 @@ python -u main.py
 ```
 
 ## 结果
-![new](res\new_head.png)
-![new2](res\new_head2.png)
+![new](https://github.com/ice-bird/70_unisver_wechat_avatar/blob/master/res/new_head.png)
+![new2](https://github.com/ice-bird/70_unisver_wechat_avatar/blob/master/res/new_head2.png)
 
 
 ## 改进
-1.命令行式运行，读取不同路径图片
-2.不同风格框图
-3.拖动图片
+- 命令行式运行，读取不同路径图片
+- 不同风格框图
+- 拖动图片
