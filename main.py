@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 # 读取头像和国旗图案
 img_head = Image.open('image/test.jpg')
-img_flag = Image.open('source/source1.png') #RGBA打开
+img_flag = Image.open('source/source.png') #RGBA打开
 #%%
 # 获取头像和国旗图案宽度
 w_head, h_head = img_head.size[:2]  #959
